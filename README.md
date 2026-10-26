@@ -21,3 +21,6 @@ Project Status
 Currently in the initial development stage.
 
 Developed as part of an experiential learning project.
+🚀 "Try the Live Demo" (https://autonomous-drone-delivery-simulator.vercel.app)
+
+Explore the deployed simulator and test autonomous waypoint navigation, mission configuration, restricted zones, and payload delivery workflows.
