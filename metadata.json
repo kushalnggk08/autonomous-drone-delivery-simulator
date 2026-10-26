@@ -1,0 +1,6 @@
+{
+  "name": "Autonomous Drone Waypoint Navigation & Payload Delivery Simulation",
+  "description": "Interactive 2D engineering simulation prototype for autonomous UAV waypoint navigation, destination zone verification, and payload delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
